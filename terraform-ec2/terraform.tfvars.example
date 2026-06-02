@@ -1,0 +1,6 @@
+aws_region    = "ap-south-1"
+project_name  = "pratice-ec2"
+instance_type = "t2.micro"
+key_name      = "your-existing-key-pair-name"
+ssh_cidr      = "0.0.0.0/0"
+app_port      = 3003
